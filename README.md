@@ -1,7 +1,7 @@
 # cyclostationarity-uac
 
 This repository contains the Matlab code to accompany the following publication:
-F.-X. Socheleau, *Cyclostationarity of Communication Signals in Underwater Acoustic Channels*, IEEE JOE, accepted for publication
+F.-X. Socheleau, *Cyclostationarity of Communication Signals in Underwater Acoustic Channels*,  accepted for publication in IEEE Journal of Oceanic Engineering
 
 This code is published under the MIT License (see full license in the 'LICENSE' file)
 
